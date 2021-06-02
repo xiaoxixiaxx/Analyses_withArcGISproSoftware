@@ -16,3 +16,5 @@ Z-score is usually used to calculate the educational opportunity index, which is
 
 ## discussion of each of the 5 individual measures
 ### Edu1: Reading test scores
+![Edu1](https://user-images.githubusercontent.com/77243665/120547757-66b41f00-c3a6-11eb-8db6-af41d6b059e4.png)
+#### In the geographic distribution of reading test scores, the area with very low opportunity performance is in the southwest part of King County. They are clustered. It seems to match the geographic distribution of math test scores. with both very low chances distributed in the same area. In addition, the reading test distribution shows that the area with the greatest opportunity is northern King County. The entire eastern part of King County performed well, showing no declines opportunity.
